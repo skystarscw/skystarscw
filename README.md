@@ -93,10 +93,8 @@ motto: "Hack the planet. Break things. Report responsibly."
 <table>
   <tr>
     <td>
-      <a href="https://github.com/skystarscw/web-pentest">
-        <b>🎯 web-pentest</b><br>
-        <sub>AI-driven modular pentest framework</sub><br>
-        <sub>31 skills · 38 references · 7 tools</sub>
+      <a href="https://github.com/">
+        <b>🎯web-pentest</b><br>
       </a>
     </td>
     <td>

@@ -33,11 +33,6 @@ current_focus:
 motto: "Hack the planet. Break things. Report responsibly."
 ```
 
-- 🔭 Currently building **AI-driven pentest automation frameworks**
-- 🎯 Focused on **IDOR / SQLi / SSRF / Auth Bypass** at scale
-- 🧠 Deep diving into **JS source map analysis** and **business logic exploitation**
-- 🤖 Integrating **LLM agents** into offensive security workflows
-- 🏆 Active on **Chinese SRC platforms** (漏洞盒子 / 补天 / 各大厂商 SRC)
 
 ---
 
